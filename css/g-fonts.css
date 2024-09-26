@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(193, 228, 255);
+    color: rgb(27, 7, 70);
+    font-family: "Caveat", cursive; 
+    font-size: 20px;
+}
+
+h1{
+    font-family: "Comforter Brush", cursive;
+    font-size: 30px;
+    color: darkgoldenrod;
+    text-align: center;
+    text-shadow: 5px -5px 10px #efa800;
+}
+h2{
+    font-family: "Comforter Brush", cursive;
+    font-size: 30px;
+    color: darkgoldenrod;
+    text-align: center;
+    text-shadow: 5px -5px 10px #efa800;
+}
+
+  a{
+    color: darkgoldenrod;
+  }
+  

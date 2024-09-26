@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color: #f12c00;
+}
+
+.icons{
+    text-align: center;
+}
+
+.icons i{
+
+    font-size: 100px;
+    color: #ffffff;
+    text-shadow: 0 0 20px #ffcb2e;
+    box-shadow: 0 0 30px #ffcb2e;
+    background: #f12c00;
+    padding: 10px;
+    border-radius: 100%;
+    margin: 10px;
+}
+.icons i:hover{
+
+    color: #ffffff;
+    text-shadow: 0 0 20px #ffe69d;
+    box-shadow: 0 0 30px #ffe69d;
+    background: #e4a103;
+    padding: 10px;
+    border-radius: 100%;
+    margin: 10px;
+    transform: scale(1.1);
+}
+a{
+    color: darkgoldenrod;
+  }
+  
